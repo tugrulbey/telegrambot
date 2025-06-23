@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyArmor
+*.key
+*.license
+
+# Ortam dosyaları
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
